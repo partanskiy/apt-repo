@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Date: Tue, 21 Jul 2026 17:07:42 +0000
+MD5Sum:
+ 2fc19b250fd769a349fea6f647d93346             1421 Packages
+ b25f02d902353069cb49fde584938ceb              623 Packages.gz
+ bb3d99681ffdf41f054bd50cf3292151               38 Release
+SHA1:
+ 8f907610ec0a074d6d0973e02ad21d89e537078b             1421 Packages
+ 95312f932eda802504f91c538bd212a011ec2e50              623 Packages.gz
+ d9088812e1d3459ed60af9ddc3e11ea07f6d2043               38 Release
+SHA256:
+ 5c74a5063373e82ecb57f0bcf77f674ad58a14a8b129cf6cbfcc938846c6ac12             1421 Packages
+ 49747f3f0224438dde54818464356563e9c51ffe426013eaa346f5283c92f5f9              623 Packages.gz
+ 367d6e33de0699df51e068769cc9579a8959f0e5441d576536ac8dd4aad906cf               38 Release
+SHA512:
+ fdda2b95931cf8f33e2d9c0fc81ce8bc7ba0fded01aff88391896478377e1d77dae78c3bcfdbf960316bb37ec277b1d5b9c9813088f9338fc431854b5c37124a             1421 Packages
+ f5d34ddb1c1bb8c4bd991cdc0ded1bee7bdbe9a525f833a5608e8a8fd65c798e036d44eb409ac45ecc574269e05d621f1cf74d0659b083aff47e84e7f5a153d7              623 Packages.gz
+ 78ab292852df84c37b22e1d354ad0a65ff6f55438b20d103445ea71b70cb61eb22c958ac44724975bf6d0fe048a18bf07c6a3bd053846f26f72632847a5fa6b3               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQdqsm5RMYBbE2wlRFJ66a5cizYlgUCal+nXgAKCRBJ66a5cizY
+llDqAQDtXnHOxT1yni5MbIl2+0sJg3EPG9PKy/uBqRAIesYF1AD+NpgHUHbm4ho+
+F6bad/pQoWuVGi4CvhZkUyBSmAT5qAA=
+=0VDA
+-----END PGP SIGNATURE-----
