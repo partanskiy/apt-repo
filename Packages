@@ -1,5 +1,24 @@
 Package: synchrogit
 Version: 26.7.7-1
+Architecture: arm64
+Maintainer: Ilya Partanskiy <partanskiy.im@gmail.com>
+Installed-Size: 2586
+Depends: git
+Filename: ./synchrogit_26.7.7-1_arm64.deb
+Size: 913080
+MD5sum: 49d3e6050ecdc0a7749e4caabf7850b1
+SHA1: e2ce4ab4520a586e97ae4006902e0208db86e542
+SHA256: a7b70de28ed9c4c53af0abd96b40d00d5fe646f4df9fecc27ed6469e65451829
+Section: vcs
+Priority: optional
+Homepage: https://github.com/partanskiy/synchrogit
+Description: Daemon that keeps git repositories synced with their remotes
+ Watches configured git repositories, commits local changes with timestamp
+ messages, merges remote changes, and pushes — designed for personal sync
+ repositories such as Obsidian vaults.
+
+Package: synchrogit
+Version: 26.7.7-1
 Architecture: amd64
 Maintainer: Ilya Partanskiy <partanskiy.im@gmail.com>
 Installed-Size: 2958
@@ -18,16 +37,35 @@ Description: Daemon that keeps git repositories synced with their remotes
  repositories such as Obsidian vaults.
 
 Package: synchrogit
-Version: 26.7.7-1
+Version: 26.9.0-1
 Architecture: arm64
 Maintainer: Ilya Partanskiy <partanskiy.im@gmail.com>
-Installed-Size: 2586
+Installed-Size: 9206
 Depends: git
-Filename: ./synchrogit_26.7.7-1_arm64.deb
-Size: 913080
-MD5sum: 49d3e6050ecdc0a7749e4caabf7850b1
-SHA1: e2ce4ab4520a586e97ae4006902e0208db86e542
-SHA256: a7b70de28ed9c4c53af0abd96b40d00d5fe646f4df9fecc27ed6469e65451829
+Filename: ./synchrogit_26.9.0-1_arm64.deb
+Size: 3467556
+MD5sum: aea21c123293da2aac5d564709edc138
+SHA1: 89bf7339b986b40f30dc4ea50fe82c623db4d7a9
+SHA256: 239bde65df931a988b16e97918e1fa98d629e66443679d27529956f1d7ac190e
+Section: vcs
+Priority: optional
+Homepage: https://github.com/partanskiy/synchrogit
+Description: Daemon that keeps git repositories synced with their remotes
+ Watches configured git repositories, commits local changes with timestamp
+ messages, merges remote changes, and pushes — designed for personal sync
+ repositories such as Obsidian vaults.
+
+Package: synchrogit
+Version: 26.9.0-1
+Architecture: amd64
+Maintainer: Ilya Partanskiy <partanskiy.im@gmail.com>
+Installed-Size: 10700
+Depends: git
+Filename: ./synchrogit_26.9.0-1_amd64.deb
+Size: 3400296
+MD5sum: 383e813a1d3c0c5183090a333917ffc8
+SHA1: c4b7dcb1fc713b20918bff29fd120796a7c896ee
+SHA256: eee9f41f1820972c1fe027452094fb04270f4ac6524d513162a823f3cedbfaab
 Section: vcs
 Priority: optional
 Homepage: https://github.com/partanskiy/synchrogit
