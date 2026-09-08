@@ -74,3 +74,41 @@ Description: Daemon that keeps git repositories synced with their remotes
  messages, merges remote changes, and pushes — designed for personal sync
  repositories such as Obsidian vaults.
 
+Package: synchrogit
+Version: 26.9.1-1
+Architecture: arm64
+Maintainer: Ilya Partanskiy <partanskiy.im@gmail.com>
+Installed-Size: 9234
+Depends: git
+Filename: ./synchrogit_26.9.1-1_arm64.deb
+Size: 3470844
+MD5sum: b1c890ddc02a1c68be95be8113f144e5
+SHA1: 79cb10eefbdb637090b3ca312d346e679188b18b
+SHA256: e392c6e38a5d6e9e52ef75152b79bd50fbeeaa7820ce9b0893d33200e0d6978e
+Section: vcs
+Priority: optional
+Homepage: https://github.com/partanskiy/synchrogit
+Description: Daemon that keeps git repositories synced with their remotes
+ Watches configured git repositories, commits local changes with timestamp
+ messages, merges remote changes, and pushes — designed for personal sync
+ repositories such as Obsidian vaults.
+
+Package: synchrogit
+Version: 26.9.1-1
+Architecture: amd64
+Maintainer: Ilya Partanskiy <partanskiy.im@gmail.com>
+Installed-Size: 10744
+Depends: git
+Filename: ./synchrogit_26.9.1-1_amd64.deb
+Size: 3404608
+MD5sum: 270aef0898e8d1aea748808ee6ee3bf0
+SHA1: bbd6ba35e62c8680143565eb2ae971782016b5ee
+SHA256: efe05f626282b2cae1025aff9091045f677dd49c29c4b0dbb4f4628b4acf5c87
+Section: vcs
+Priority: optional
+Homepage: https://github.com/partanskiy/synchrogit
+Description: Daemon that keeps git repositories synced with their remotes
+ Watches configured git repositories, commits local changes with timestamp
+ messages, merges remote changes, and pushes — designed for personal sync
+ repositories such as Obsidian vaults.
+
